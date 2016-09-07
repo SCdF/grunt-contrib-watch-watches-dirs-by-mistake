@@ -17,7 +17,7 @@ To reproduce locally:
  - Or, create a new directory in the `shouldFireDir`, e.g. `mkdir shouldFireDir/blah`
  
 What should happen: Nothing! The grunt watch statement:
-```json
+```js
 shouldFire: {
   files: ['shouldFire', 'shouldFireDir/shouldFire'],
   tasks: ['printstuff']
