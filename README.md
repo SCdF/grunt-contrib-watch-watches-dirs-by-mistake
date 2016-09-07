@@ -14,7 +14,6 @@ To reproduce locally:
  - Note that if you edit `shouldFire` you get a message in grunt, which is correct!
  - Note that if you edit `shouldNotFire` you **don't** get a message in grunt, which is _also_ correct!
  - Now create a new directory in the root, e.g. `mkdir blah`
- - 
  
 What should happen: Nothing!
 
