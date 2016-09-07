@@ -12,7 +12,7 @@ module.exports = function(grunt) {
     },
     watch: {
       shouldFire: {
-        files: 'shouldFire',
+        files: ['shouldFire', 'shouldFireDir/shouldFire'],
         tasks: ['printstuff']
       }
     }
