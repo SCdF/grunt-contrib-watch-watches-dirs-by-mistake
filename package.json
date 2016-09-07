@@ -1,0 +1,16 @@
+{
+  "name": "grunt-watch-watches",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
